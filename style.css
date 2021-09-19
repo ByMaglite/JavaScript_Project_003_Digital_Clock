@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Orbitron', sans-serif;
+}
+
+body{
+   
+     background: #000428;  
+     background: -webkit-linear-gradient(to right, #013664, #000428);  
+     background: linear-gradient(to right, #013664, #000428); 
+
+/* background: -webkit-linear-gradient(to left, #434343, #000000);
+background: linear-gradient(to left, #434343, #000000);  */
+
+
+    color:dodgerblue;
+    font-size: 150px;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35vh;
+    
+}
